@@ -13,5 +13,5 @@ combined_strings = []
     end
     count +=1
   end
-  combined_strings.flatten
+  combined_strings.join
 end
